@@ -54,7 +54,7 @@
   - (正) Assuming that the emission is isotropic, the amplitude decreases in proportion to $1/r$.
   - (誤) The amplitude decreases in proportion to $1/r$ (here the emission is assumed to be isotropic).
 
-- 英文の場合、文頭で`then`、`and`、`so`、`but`、などを使うのは口語的なので使わないでください。`but`はそもそも口語的なので、文頭以外でも基本的には使いません。同様の理由で、`don't`や`let's`などのアポストロフィを使って省略した書き方も使わないでください。
+- 英文の場合、文頭で`then`、`and`、`so`、`but`、などを使うのは口語的なので使わないでください。同様の理由で、`don't`や`let's`などのアポストロフィを使って省略した書き方も使わないでください。
 
 - 英文で複数のものを列挙する場合、`A, B and C`と書くか、`A, B, and C`と書くかの二つの流儀があります。後者のandの前のコンマはオックスフォードコンマと呼ばれます。私は基本的に後者を使います。
 
