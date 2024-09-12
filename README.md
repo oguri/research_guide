@@ -12,6 +12,10 @@
 * [arXiv](arxiv.md)
 * [ADS](ads.md)
 
+## 研究
+
+* [作図](plot.md)
+
 ## 発表
 
 * [論文紹介](jc.md)
